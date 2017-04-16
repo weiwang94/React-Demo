@@ -1,3 +1,7 @@
+# 如何运行程序？
+1. npm install 装完所有配置文件
+2. npm start(也可用 yarn start)
+
 ### React 的基本知识
 ### 官网的介绍：
 - Declarative
